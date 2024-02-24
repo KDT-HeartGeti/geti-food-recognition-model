@@ -5,13 +5,14 @@
 ## 실행 메뉴얼
 1. https://github.com/KDT-HeartGeti/Geti를 안드로이드 스튜디오로 clone합니다.
 2. https://github.com/KDT-HeartGeti/geti-food-recognition-model를 Visual Studio Code로 Clone합니다.
-3. flasktflite.py를 실행합니다.
-2. cmd에서 ipconfig 쳐서 나온  IPv4 주소를 복사 하기 (192로 시작)
-3. 복사한 주소 파이썬 파일에 있는 주소와 바꾸기
-4. 서버 실행
-5. 안드로이드 스튜디오에서 LoadingScreen에서 서버 주소 바꾸기
+3. [구글 드라이브](https://drive.google.com/drive/folders/1-SEJvPtaYeIHxsEJ2S2TBn_iXO1DTQu1?usp=sharing)에서 모델 파일을 다운받습니다.
+4. flasktflite.py를 실행합니다.
+5. cmd에서 ipconfig 쳐서 나온  IPv4 주소를 복사 하기 (192로 시작)
+6. 복사한 주소 파이썬 파일에 있는 주소와 바꾸기
+7. 서버 실행
+8. 안드로이드 스튜디오에서 LoadingScreen에서 서버 주소 바꾸기
     복사한 주소/prediction 까지 쳐야함
-6. 안드로이드 스튜디오에서 실행
+9. 안드로이드 스튜디오에서 실행
 
 ## 인텔 게티 플랫폼 : 인텔의 컴퓨터 비전 인공지능 플랫폼입니다.
 ### 음식 이미지 Annotation 하는 과정 스크린샷
