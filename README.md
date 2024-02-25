@@ -6,7 +6,7 @@
 1. https://github.com/KDT-HeartGeti/Geti를 안드로이드 스튜디오로 clone합니다.
 2. https://github.com/KDT-HeartGeti/geti-food-recognition-model를 Visual Studio Code로 Clone합니다.
 3. [구글 드라이브](https://drive.google.com/drive/folders/1-SEJvPtaYeIHxsEJ2S2TBn_iXO1DTQu1?usp=sharing)에서 모델 파일을 다운받습니다.
-4. flasktflite.py를 실행합니다.
+4. flasktflite.py를 실행합니다. 오류 발생 시 app.py로 실행합니다.
 5. cmd에서 ipconfig 쳐서 나온  IPv4 주소를 복사 하기 (192로 시작)
 6. 복사한 주소 파이썬 파일에 있는 주소와 바꾸기
 7. 서버 실행
