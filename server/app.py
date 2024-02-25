@@ -49,4 +49,4 @@ def prediction():
     return render_template("prediction.html", data = pred)
 
 if __name__ == "__main__":
-    app.run(host = '127.0.0.1', port=5000, debug=True)
+    app.run(host = 'your_adress_here', port=5000, debug=True)
